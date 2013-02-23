@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="100"
+   height="72"
+   id="svg2"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="treeIcon.svg"
+   inkscape:export-filename="/home/dmerryman/workspace/projects/treequest/app/templates/treeIcon.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"><metadata
+   id="metadata3077"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1024"
+   inkscape:window-height="576"
+   id="namedview3075"
+   showgrid="false"
+   inkscape:zoom="3.3565669"
+   inkscape:cx="89.737263"
+   inkscape:cy="49.772499"
+   inkscape:window-x="0"
+   inkscape:window-y="24"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2"
+   inkscape:showpageshadow="false" /><defs
+   id="defs5"><clipPath
+   id="clipPath157"><path
+     d="m 468.828,426.606 -47.828,0 0,-45 47.828,0 0,45 z"
+     id="path159"
+     inkscape:connector-curvature="0" /></clipPath>
+</defs><text
+   id="text13"
+   x="278.15375"
+   y="805.86749"
+   style="font-size:15px"><tspan
+     style="font-size:10px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CharlotteSansBookLetPlain;-inkscape-font-specification:CharlotteSansBookLetPlain"
+     id="tspan15"
+     y="805.86749"
+     x="278.15375 283.28375 286.88376 291.43375 296.44376 301.75375 306.30374 309.62375 314.93375 318.93375 321.46375 329.40375 333.95374 338.96375 343.91376 348.46375 350.62375 353.15375 357.53375 360.06375 366.42374 368.58374 372.18375 377.02374 379.55374 384.91376 387.70374 390.23376 395.87375 400.42377 405.43375 409.81375 415.17374 420.12375 424.37375 429.08374 432.40375 434.93375 439.84375 446.97375 452.28375 454.44376 459.15375 466.28375 476.40375">Standards Manual • City of Vancouver Emblem 2</tspan></text>
+
+<path
+   inkscape:connector-curvature="0"
+   style="fill:#66cc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="path47"
+   d="m 73.0438,2.8062372 c 0,0 -20.408418,16.7549448 -21.729185,40.6349538 0,0 -6.406087,-21.84881 -30.550982,-28.058369 0,0 -3.389807,22.370037 21.676696,38.124032 0,0 -26.830374,-1.993358 -42.440329,17.935335 0,0 8.8730657,-17.664346 32.318515,-21.980643 0,0 -15.420751,-11.122764 -14.388062,-36.797161 0,0 18.303979,0.0354 32.203772,20.833211 0,0 0.469959,-17.165091 22.909575,-30.6913598" /><path
+   inkscape:connector-curvature="0"
+   style="fill:#0081c5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="path49"
+   d="m 99.200362,22.470044 c 0,0 -27.512729,0.96189 -38.57568,23.656626 0,0 10.009511,-30.186001 -11.142296,-41.9325288 0,0 -18.236841,19.3195778 -2.564632,42.9408038 0,0 -22.656895,-17.272511 -43.8379982,-6.219324 0,0 12.4752692,27.031784 46.0767112,16.061604 0,0 -33.508671,19.63329 -48.37523683,-16.587714 0,0 15.54525983,-15.100935 40.11738983,-0.153805 0,0 -13.295561,-18.932625 7.870894,-38.9723988 0,0 23.217184,8.7680878 16.27278,33.0936418 0,0 8.003947,-12.333671 34.158068,-11.886905" /></svg>
