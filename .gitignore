@@ -41,3 +41,6 @@ include/
 local/
 share/
 bin/
+
+# gedit swap
+*.*~
