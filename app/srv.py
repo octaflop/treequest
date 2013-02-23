@@ -1,11 +1,12 @@
-from flask import Flask
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "Hello index!"
-    #return render_template("index.html", page=ret)
+    #return "Hello index!"
+    ret = {}
+    return render_template("index.html", page=ret)
 
 # Based on
 # http://mycity.sensetecnic.com/demo/rest/StreetTrees/tree_locations?limit=10&maxLat=49.269569871597284&minLat=49.26783728704706&maxLon=-123.09416667541961&minLon=-123.0998368652771
